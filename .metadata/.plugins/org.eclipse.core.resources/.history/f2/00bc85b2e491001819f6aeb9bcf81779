@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"> 
+
+<h:head></h:head> 
+<body> 
+<f:view>
+<h:form>
+<h:panelGrid columns="2">
+hasta adı <h:inputText value="#{hastaBean.hasta.hastaAd}"/>
+hasta soyadı <h:inputText value="#{hastaBean.hasta.hastaSoyad}"/>
+hasta tc <h:inputText value="#{hastaBean.hasta.hastaTC}"/>
+hasta adres <h:inputText value="#{hastaBean.hasta.hastaAdres}"/>
+doktor ad <h:inputText value="#{hastaBean.hasta.doktor.doktorAd}"/>
+doktor soyadı <h:inputText value="#{hastaBean.hasta.doktor.doktorSoyad}"/>
+doktor alan <h:inputText value="#{hastaBean.hasta.doktor.doktorAlan}"/>
+<h:commandButton action="#{hastaBean.kaydet()}" value="kaydet" />
+</h:panelGrid>
+</h:form>
+</f:view>
+
+</body> 
+</html>

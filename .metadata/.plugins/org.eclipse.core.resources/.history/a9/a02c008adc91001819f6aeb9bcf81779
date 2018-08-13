@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HastaneOtoo">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <property name="context-root" value="HastaneOtoo"/>
+        <property name="java-output-path" value="/HastaneOtoo/WebContent/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>

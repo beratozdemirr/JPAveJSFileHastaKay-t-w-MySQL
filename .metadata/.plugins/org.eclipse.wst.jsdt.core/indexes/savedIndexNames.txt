@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\hastaneDenemeiki\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4188355234.index
+271873148.index
+2247286124.index
+3067360192.index
+3801831125.index
+1808763502.index

@@ -1,0 +1,5 @@
+package com.hastane.beans;
+
+public class KullaniciBean {
+
+}

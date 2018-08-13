@@ -1,0 +1,193 @@
+
+Tem 28, 2018 03:21:42.07 NEW SESSION
+Tem 28, 2018 03:21:42.07 [16052:6644:0728/032142.075:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Tem 28, 2018 03:21:42.41 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:42.46 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:42.64 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:42.76 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:42.82 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:42.85 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:42.89 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:42.91 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:42.99 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:43.02 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:43.03 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:43.05 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:21:43.06 [16052:6644:0728/032142.411:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:04.95 [16052:1712:0728/032204.955:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Tem 28, 2018 03:22:24.20 [16052:1712:0728/032224.207:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Tem 28, 2018 03:22:30.55 Unable to read VR Path Registry from C:\Users\berat\AppData\Local\openvr\openvrpaths.vrpath
+Tem 28, 2018 03:22:35.09 [2012:17992:0728/032235.093:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Tem 28, 2018 03:22:35.46 [2012:17992:0728/032235.460:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.48 [2012:17992:0728/032235.460:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.49 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.58 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.60 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.62 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.62 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.74 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.77 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.79 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.86 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.88 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:35.94 [2012:17992:0728/032235.461:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:22:57.32 [2012:5104:0728/032257.320:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Tem 28, 2018 03:23:02.73 [10732:18868:0728/032302.735:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Tem 28, 2018 03:23:03.08 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.19 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.42 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.56 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.61 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.68 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.69 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.72 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.73 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.76 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.78 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.80 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:03.81 [10732:18868:0728/032303.082:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:25.07 [10732:1636:0728/032325.079:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Tem 28, 2018 03:23:44.30 [2760:9584:0728/032344.306:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Tem 28, 2018 03:23:44.73 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:44.79 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:44.99 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.00 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.01 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.03 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.13 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.19 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.25 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.30 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.34 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.34 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:23:45.36 [2760:9584:0728/032344.733:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:09.18 [4908:3404:0728/032409.189:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Tem 28, 2018 03:24:09.66 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:09.76 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:09.95 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.04 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.11 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.16 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.22 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.25 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.27 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.28 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.30 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.31 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:10.33 [4908:3404:0728/032409.661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:35.67 [15436:10512:0728/032435.676:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Tem 28, 2018 03:24:36.00 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.05 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.22 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.23 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.28 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.33 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.36 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.39 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.45 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.50 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.52 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.54 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:36.56 [15436:10512:0728/032435.983:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 28, 2018 03:24:58.88 [15436:14460:0728/032458.885:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Tem 28, 2018 03:25:18.13 [15436:14460:0728/032518.135:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Tem 28, 2018 03:26:31.03 Unable to read VR Path Registry from C:\Users\berat\AppData\Local\openvr\openvrpaths.vrpath
+
+Tem 30, 2018 11:20:17.73 NEW SESSION
+Tem 30, 2018 11:20:17.73 [18124:13656:0730/112017.735:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Tem 30, 2018 11:20:18.25 [18124:13656:0730/112018.238:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.31 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.33 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.40 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.42 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.43 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.44 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.45 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.46 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.47 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.48 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.48 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:18.49 [18124:13656:0730/112018.239:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Tem 30, 2018 11:20:20.24 [18124:8264:0730/112020.246:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Tem 30, 2018 11:20:35.68 [18124:8264:0730/112035.682:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -202
+Tem 30, 2018 11:28:04.16 Unable to read VR Path Registry from C:\Users\berat\AppData\Local\openvr\openvrpaths.vrpath
+Tem 30, 2018 11:28:04.17 [18124:8264:0730/112804.166:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Tem 30, 2018 11:28:24.17 [18124:8264:0730/112824.170:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Tem 30, 2018 11:30:44.35 [18124:8264:0730/113044.350:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Tem 30, 2018 11:31:04.33 [18124:8264:0730/113104.330:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Ağu 01, 2018 17:54:18.39 NEW SESSION
+Ağu 01, 2018 17:54:18.40 [15084:12472:0801/175418.396:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Ağu 01, 2018 17:54:18.82 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:18.90 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.10 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.14 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.20 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.28 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.32 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.37 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.41 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.43 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.44 [15084:12472:0801/175418.826:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.47 [15084:12472:0801/175418.827:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:54:19.48 [15084:12472:0801/175418.827:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:34.80 Unable to read VR Path Registry from C:\Users\berat\AppData\Local\openvr\openvrpaths.vrpath
+Ağu 01, 2018 17:55:38.27 [13420:4476:0801/175538.272:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Ağu 01, 2018 17:55:38.61 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:38.69 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:38.85 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:38.96 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:38.99 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:39.05 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:39.09 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:39.12 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:39.16 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:39.20 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:39.22 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:39.24 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:55:39.25 [13420:4476:0801/175538.612:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:17.31 [14300:11276:0801/175617.314:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Ağu 01, 2018 17:56:17.65 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:17.70 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:17.81 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:17.87 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:17.93 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:17.97 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:18.03 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:18.06 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:18.11 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:18.14 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:18.15 [14300:11276:0801/175617.656:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:18.18 [14300:11276:0801/175617.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 17:56:18.23 [14300:11276:0801/175617.657:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:40:59.74 Unable to read VR Path Registry from C:\Users\berat\AppData\Local\openvr\openvrpaths.vrpath
+Ağu 01, 2018 18:41:15.60 [14276:13784:0801/184115.608:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Ağu 01, 2018 18:41:16.04 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.08 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.24 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.28 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.30 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.32 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.35 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.36 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.40 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.43 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.46 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.53 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:41:16.56 [14276:13784:0801/184116.041:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:43:58.00 Unable to read VR Path Registry from C:\Users\berat\AppData\Local\openvr\openvrpaths.vrpath
+Ağu 01, 2018 18:44:02.58 [5208:17412:0801/184402.589:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Ağu 01, 2018 18:44:02.91 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.00 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.13 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.18 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.22 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.24 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.26 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.28 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.33 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.35 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.37 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.39 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:44:03.43 [5208:17412:0801/184402.918:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Ağu 01, 2018 18:45:51.01 Unable to read VR Path Registry from C:\Users\berat\AppData\Local\openvr\openvrpaths.vrpath
